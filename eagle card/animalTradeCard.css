@@ -1,0 +1,27 @@
+.tradingcard{
+    padding-bottom: 6rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border: 1px solid;
+    width: 400px;
+    list-style: none;
+    background: rgb(3, 114, 12);
+    color: rgb(239, 239, 239);
+}
+
+
+body{
+    background: gray;
+    padding: 20px;
+    margin: 0px;
+    height: 70%;
+}
+.info{
+    font-style: oblique;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-right: 1rem ;
+    background-color: rgb(2, 80, 28);
+
+}
