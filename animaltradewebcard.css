@@ -2,6 +2,7 @@
     padding-bottom: 6rem;
     padding-left: 2rem;
     padding-right: 2rem;
+    border-radius: 10px;
     border: 1px solid;
     width: 400px;
     list-style: none;
@@ -15,6 +16,9 @@ body{
     padding: 20px;
     margin: 0px;
     height: 50%;
+}
+img{
+    border-radius: 10px;
 }
 .info{
     font-style: oblique;
